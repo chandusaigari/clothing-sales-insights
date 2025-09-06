@@ -5,6 +5,7 @@ This project analyzes synthetic clothing sales data covering the last 3 years to
 Key steps in the workflow include:
 
 🧹 **Data Cleaning –** correcting data types, handling missing values, and preparing the dataset for analysis.
+<a href="https://github.com/chandusaigari/clothing-sales-insights/blob/main/Untitled-1.ipynb">data cleaning</a>
 
 📊 **Exploratory Data Analysis (EDA)** – exploring patterns across categories, age groups, store regions, and payment modes.
 
