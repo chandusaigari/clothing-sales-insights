@@ -1,5 +1,6 @@
 ## 📊 Final Dashboard Overview
 The dashboard provides a comprehensive view of clothing sales performance for 2024 with the following key insights:
+<a href="https://github.com/chandusaigari/clothing-sales-insights/blob/main/finaldashboard.png">Finaldashboard</a>
 
 - *Highest Sales of 2024* – Top-performing period highlighted.  
 - *Category by Gender* – Sales distribution across male and female customers.  
