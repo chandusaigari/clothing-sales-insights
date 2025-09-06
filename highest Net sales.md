@@ -1,15 +1,9 @@
-**Highest Netsales per year-month-quarter-day to day**
+**Highest  monthly sale in a year**
 link: <a href="https://github.com/chandusaigari/clothing-sales-insights/blob/main/highest%20Netsales%20each%20year.png">High sales</a>
 
 **Insights**
 
-**Yearly Sales Trends**
-
-Helps understand long-term growth or decline.
-
-Useful for yearly business planning and forecasting.
-
-**Monthly & Quarterly Peaks**
+**Monthly Peaks**
 
 Highlights seasonal buying patterns (e.g., holidays, festivals, year-end sales).
 
