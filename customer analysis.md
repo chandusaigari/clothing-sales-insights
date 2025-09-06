@@ -2,6 +2,8 @@
 
 This section provides insights into customer behavior, demographics, and contribution to overall sales:
 <a href="https://github.com/chandusaigari/clothing-sales-insights/blob/main/customer%20analysis.png"> customer analysis </a>
+
+
 **Insights**
 
 **Unique Customers KPI**
