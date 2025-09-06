@@ -10,6 +10,6 @@ Key steps in the workflow include:
 
 💡 **Insights**– identifying sales trends, seasonal variations, revenue drivers, and year-over-year performance.
 
-📈 ****Visualization** **– clear charts and dashboards for easy interpretation of results.
+📈 **Visualization**- clear charts and dashboards for easy interpretation of results.
 
 ⚠ Note: This dataset is synthetic and created for learning, practice, and demonstration purposes only.
