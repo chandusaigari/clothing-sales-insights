@@ -1,4 +1,4 @@
-**Clothing Sales Analysis** <a href=" https://github.com/chandusaigari/clothing-sales-insights/blob/main/2.salescloth.pbix>Clothing eda and insights</a>
+**Clothing Sales Analysis** <a href=" https://github.com/chandusaigari/clothing-sales-insights/blob/main/2.salescloth.pbix">Clothing eda and insights</a>
 **📌 Project Overview**
 
 This project focuses on analyzing synthetic clothing sales data using EDA, Power BI dashboards, and customer insights. The analysis covers customer behavior, time-based sales patterns, store performance, and product/category contribution.
