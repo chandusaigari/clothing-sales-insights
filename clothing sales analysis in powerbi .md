@@ -5,11 +5,8 @@ This project focuses on analyzing synthetic clothing sales data using EDA, Power
 
 **🛠 Tools & Skills Used**
 
-**Python (EDA & Data Cleaning) → Pandas, NumPy, Matplotlib, Seaborn**
-
+**Python (EDA & Data Cleaning) → Pandas, NumPy.
 **Power BI → Interactive dashboards & KPIs**
-
-**SQL → Querying and validation**
 
 **GitHub → Documentation & portfolio**
 
